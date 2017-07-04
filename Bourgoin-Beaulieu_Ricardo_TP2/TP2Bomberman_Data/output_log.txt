@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4474
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.140 seconds
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\School\GamePlay Games\BomberMan\TestGrid\TP2Bomberman_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.419850 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2620 -> priority: 1 
+  Thread -> id: 1a74 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.195350 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.446419 ms (FindLiveObjects: 0.034370 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.189629 ms  DeleteObjects: 0.207802 ms)
+
+Unloading the last loaded scene Assets/Scenes/MainMenu.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 198)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.685431 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.240987 ms (FindLiveObjects: 0.047802 ms CreateObjectMapping: 0.020938 ms MarkObjects: 0.167505 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675949 ms
+
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.393481 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.020543 ms MarkObjects: 0.155259 ms  DeleteObjects: 0.188444 ms)
+
